@@ -1,0 +1,11 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "my solutions to exercices from Grokking Algorithms book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
