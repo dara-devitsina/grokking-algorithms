@@ -17,7 +17,6 @@ function quickSort(items) {
 		return sort(items);
 	} else {
 		const pivot = items[Math.floor(items.length / 2)];
-		console.log(pivot)
 		const leftElements = [];
 		const rightElements = [];
 		for (let i = 0; i < items.length; i += 1) {
